@@ -1,0 +1,35 @@
+# Codex local/runtime directories
+.system/
+.codex/
+.agents/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs and runtime output
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node/cache artifacts
+node_modules/
+.npm/
+.pnpm-store/
+
+# Generated reports/archives
+reports/
+archives/
+*.zip
+*.tar
+*.tar.gz
+*.tgz

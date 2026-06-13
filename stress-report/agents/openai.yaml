@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stress Report"
+  short_description: "Generate server stress test reports from evidence"
+  default_prompt: "Generate an evidence-based server stress test report from confirmed ~/stress data, system outputs, and test logs."
